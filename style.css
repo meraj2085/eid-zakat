@@ -198,4 +198,23 @@
      background-color: #EF233C;
      position: relative;
      height: 1px;
+     margin-bottom: 40px;
+}
+
+/* section 6 footer */
+
+#footer{
+     text-align: center;
+     background-color: black;
+     margin-top: 125px;
+}
+.footer-text h1{
+     font-family: 'Lobster', cursive;
+     color: #EF233C;
+     font-size: 40px;
+     padding: 45px 0 20px 0;
+}
+.footer-text p{
+     color: white;
+     padding-bottom: 45px;
 }
