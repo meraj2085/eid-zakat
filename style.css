@@ -28,6 +28,7 @@
      background-color: #EF233C;
      padding: 16px 30px;
      border-radius: 8px;
+     font-size: 22px;
 }
 
 /* Section 2 */
@@ -56,5 +57,33 @@
      border-radius: 8px;
 }
 .donate-img{
-     padding: 125px ;
+     padding: 125px 0 0 125px;
+}
+.video-btn{
+     z-index: 2;
+     position: relative;
+     right: 50%;
+     bottom: 38%;
+}
+
+/* section 3 */
+
+#survive-sec{
+     display: flex;
+     padding-top: 125px;
+}
+.survive-img{
+     padding-left: 220px;
+}
+.survive-text{
+     padding: 45px 0 0 175px;
+}
+.survive-text h1{
+     font-size: 51px;
+     font-family: 'Cairo', sans-serif;
+     line-height: 70px;
+}
+.survive-text p{
+     font-size: 22px;
+     padding: 30px 0 30px ;
 }
