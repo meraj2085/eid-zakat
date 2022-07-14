@@ -134,3 +134,68 @@
      padding-top: 10px;
      text-align: justify;
 }
+
+
+/* section 4 */
+
+#praying{
+     padding-top: 125px;
+}
+.pray-container{
+     display: flex;
+     justify-content: center;
+     gap: 2rem;
+}
+
+/* section 5 */
+
+#hand{
+     padding-top: 125px;
+}
+.hand-header{
+     text-align: center;
+}
+.hand-header h1{
+     font-size: 51px;
+     font-family: 'Cairo', sans-serif;
+     line-height: 65px;
+}
+.hand-header p{
+     font-size: 22px;
+     padding: 30px 0 30px ;
+}
+.hand-container{
+     padding-top: 60px;
+     display: flex;
+     padding-left: 190px;
+     gap: 1.6rem;
+}
+.hand-box{
+     width: 363px;
+     border: 1px solid #ddd;
+     border-radius: 10px;
+}
+.hand-text{
+     padding-left: 20px;
+}
+.hand-text h1{
+     font-size: 25px;
+     margin: 20px 0;
+     font-weight: 700;
+}
+.hand-text p{
+     max-width: 320px;
+     text-align: justify;
+     font-size: 20px;
+     padding-right: 10px;
+}
+.hand-text h2{
+     padding-top: 40px;
+     color: #EF233C;
+}
+.hand-text hr{
+     width: 175px;
+     background-color: #EF233C;
+     position: relative;
+     height: 1px;
+}
