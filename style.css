@@ -29,3 +29,32 @@
      padding: 16px 30px;
      border-radius: 8px;
 }
+
+/* Section 2 */
+
+#donate-sec{
+     display: flex;
+}
+.donate-text{
+     padding-top: 170px;
+     padding-left: 220px;
+}
+.donate-text h1{
+     font-size: 51px;
+     font-family: 'Cairo', sans-serif;
+     line-height: 70px;
+}
+.donate-text p{
+     font-size: 22px;
+     padding: 30px 0 30px ;
+}
+.donate-btn{
+     text-decoration: none;
+     color: white;
+     background-color: #EF233C;
+     padding: 16px 30px;
+     border-radius: 8px;
+}
+.donate-img{
+     padding: 125px ;
+}
